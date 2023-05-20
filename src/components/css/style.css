@@ -3,8 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    
-    font-family:'Titillium Web', sans-serif;;
+    font-family: "Jost", sans-serif;
 }
 
 body {
@@ -16,7 +15,7 @@ body {
     flex-wrap: wrap;
     height: 100vh;
     width: 100vw;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: "Jost", sans-serif;
 }
 
 html,body {
